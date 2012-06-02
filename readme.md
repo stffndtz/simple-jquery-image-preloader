@@ -6,7 +6,12 @@ Furthermore adds a nice Splashloader. And there's nothing you have to do but add
 
 #Usage
 
-Simply include the script at the bottom of your <body>. Nothing more.
+Simply include the script at the bottom of your 
+
+	<body>
+
+The rest is magic.
+
 
 #Options
 
